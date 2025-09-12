@@ -2,7 +2,7 @@
 
 A production-ready framework for evaluating and benchmarking RAG systems with automated query synthesis and LLM-as-a-judge evaluation.
 
-![Pipeline Architecture](docs/images/pipeline_architecture.png)
+![Pipeline Architecture](GraphRAG-Evaluation-Pipeline/blob/main/flow1.png))
 
 ## Project Objectives
 
