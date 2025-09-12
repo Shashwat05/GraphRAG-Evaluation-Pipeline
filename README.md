@@ -23,7 +23,7 @@ The evaluation framework is built around Graph RAG as the primary architecture u
 - Enables comprehensive evaluation across the local↔global query spectrum
 
 ### 2. Automated Query Synthesis
-![Query Classification](docs/images/query_taxonomy.png)
+![Query Classification](autoq.png)
 
 **Purpose**: Generate balanced, reusable question sets that cover the full range of information-seeking behaviors.
 
