@@ -52,5 +52,5 @@ The evaluation framework is built around Graph RAG as the primary architecture u
 
 **Output**: Win rates, statistical significance tests, and detailed performance breakdowns by query class
 
-## Core Components
+
 
