@@ -1,0 +1,17 @@
+question_set,criteria,base_name,other_name,base_mean,shapiro_base,base_normal,other_mean,shapiro_other,other_normal,p_value,test,statistic,uncorrected_significance,formatted_p_value,corrected_p_value,corrected_significance,formatted_corrected_p_value
+activity_global,comprehensiveness,vector_rag,graphrag_global,0.0,,False,1.0,,False,0.15729920705028502,wilcoxon,-1.4142135623730951,False,0.157,0.31459841410057005,False,0.315
+activity_global,comprehensiveness,vector_rag,lazygraphrag,0.0,,False,1.0,,False,0.15729920705028502,wilcoxon,-1.4142135623730951,False,0.157,0.31459841410057005,False,0.315
+activity_global,diversity,vector_rag,graphrag_global,0.0,,False,1.0,,False,0.15729920705028502,wilcoxon,-1.4142135623730951,False,0.157,0.31459841410057005,False,0.315
+activity_global,diversity,vector_rag,lazygraphrag,0.0,,False,1.0,,False,0.15729920705028502,wilcoxon,-1.4142135623730951,False,0.157,0.31459841410057005,False,0.315
+activity_global,empowerment,vector_rag,graphrag_global,0.0,,False,1.0,,False,0.15729920705028502,wilcoxon,-1.4142135623730951,False,0.157,0.31459841410057005,False,0.315
+activity_global,empowerment,vector_rag,lazygraphrag,0.0,,False,1.0,,False,0.15729920705028502,wilcoxon,-1.4142135623730951,False,0.157,0.31459841410057005,False,0.315
+activity_global,relevance,vector_rag,graphrag_global,0.25,,False,0.75,,False,0.31731050786291415,wilcoxon,-1.0,False,0.317,0.31731050786291415,False,0.317
+activity_global,relevance,vector_rag,lazygraphrag,0.0,,False,1.0,,False,0.15729920705028502,wilcoxon,-1.4142135623730951,False,0.157,0.31459841410057005,False,0.315
+activity_local,comprehensiveness,vector_rag,graphrag_global,1.0,,False,0.0,,False,0.15729920705028502,wilcoxon,-1.4142135623730951,False,0.157,0.31459841410057005,False,0.315
+activity_local,comprehensiveness,vector_rag,lazygraphrag,0.0,,False,1.0,,False,0.15729920705028502,wilcoxon,-1.4142135623730951,False,0.157,0.31459841410057005,False,0.315
+activity_local,diversity,vector_rag,graphrag_global,1.0,,False,0.0,,False,0.15729920705028502,wilcoxon,-1.4142135623730951,False,0.157,0.31459841410057005,False,0.315
+activity_local,diversity,vector_rag,lazygraphrag,0.0,,False,1.0,,False,0.15729920705028502,wilcoxon,-1.4142135623730951,False,0.157,0.31459841410057005,False,0.315
+activity_local,empowerment,vector_rag,graphrag_global,1.0,,False,0.0,,False,0.15729920705028502,wilcoxon,-1.4142135623730951,False,0.157,0.31459841410057005,False,0.315
+activity_local,empowerment,vector_rag,lazygraphrag,0.25,,False,0.75,,False,0.31731050786291415,wilcoxon,-1.0,False,0.317,0.31731050786291415,False,0.317
+activity_local,relevance,vector_rag,graphrag_global,1.0,,False,0.0,,False,0.15729920705028502,wilcoxon,-1.4142135623730951,False,0.157,0.31459841410057005,False,0.315
+activity_local,relevance,vector_rag,lazygraphrag,0.25,,False,0.75,,False,0.31731050786291415,wilcoxon,-1.0,False,0.317,0.31731050786291415,False,0.317
