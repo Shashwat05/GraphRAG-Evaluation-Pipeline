@@ -1,0 +1,6 @@
+benchmark-qed
+pandas
+numpy
+scipy
+openai
+graph-rag
